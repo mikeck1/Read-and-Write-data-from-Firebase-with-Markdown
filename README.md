@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Author
+
+
+Written by Mike Kaufman for Medium.com, "Reading from Firebase in React.js"
+
+
 
 ## Available Scripts
 
